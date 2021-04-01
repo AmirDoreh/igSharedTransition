@@ -17,3 +17,4 @@ npx react-native run-ios
 npx react-native run-android
 ```
 
+## thanks for your interest 
